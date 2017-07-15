@@ -1,0 +1,64 @@
+body{
+	background-image: linear-gradient(#DBB773,white);
+}
+
+
+.main{
+	width: 1073px;
+	height: 500px;
+	margin-top: 30px;
+	background-color: #5889C2;
+}
+
+.header{
+	background-color: white;
+	border: 3px;
+	border-radius: 2px;
+	height: 80px;
+
+}
+
+#name{
+	color: #024BA3;
+	font-size: 50px;
+	padding-top: 5px;
+}
+
+#logo{
+	margin-top: 10px;
+	height:63px; 
+	width:135px;
+}
+
+.body
+{
+	position: relative;
+	top: 150px;
+}
+
+
+.btn{
+	height: 60px; 
+	width: 150px;
+	background-color: #DBB773;
+	color: #F0F1F3;
+	font-size: 20px;
+}
+
+.btn2{
+	margin-left: 35px;
+}
+
+.btn1{
+	margin-left: 10px;
+}
+
+.footer{
+	background-color: #1F3856;
+	position: relative;
+	top: 350px;
+	text-align: center;
+	color: #B6AFBD;
+	vertical-align: middle;
+	height: 20px;
+}
